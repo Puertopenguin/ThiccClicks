@@ -1,0 +1,17 @@
+.row{
+  max-width: 500px;
+}
+.thumbnail img {
+  max-height: 150px;
+  margin-top: 25px;
+}
+
+.thumbnail .description{
+  color:lightgrey;
+}
+
+.price{
+  font-weight: bold;
+  font-size: 60px;
+
+}
